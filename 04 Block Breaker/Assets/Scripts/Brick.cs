@@ -5,8 +5,11 @@ using UnityEngine;
 
 public class Brick : MonoBehaviour
 {
+    private bool isBreakable;
 
     private int timesHit;
+
+    public static int breakableCount = 0;
 
     public Sprite[] hitSprites;
 
@@ -16,7 +19,15 @@ public class Brick : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        isBreakable = (this.tag == "Breakable");
+        if (isBreakable)
+        {
+            breakableCount++;
+        }
+
         timesHit = 0;
+
+        print("Breakable: " + breakableCount);
 
     }
 
@@ -29,7 +40,7 @@ public class Brick : MonoBehaviour
     // Count times hit, Destroy gameObject if timeshit >= maxHits
     void OnCollisionEnter2D(Collision2D collision)
     {
-        bool isBreakable = (this.tag == "Breakable");
+     
         if (isBreakable)
         {
             HandleHits();
@@ -41,11 +52,24 @@ public class Brick : MonoBehaviour
         timesHit++;
         int maxHits = hitSprites.Length + 1;
 
+      
+
         if (timesHit >= maxHits)
         {
+
+            //TODO: get below working rather than calling BrickDestroyed in 
+            // LevelManager Update
+            breakableCount--;
+          
             Destroy(gameObject);
 
-            SimulateWin();
+            levelManager.BrickDestroyed();
+
+
+            print("Breakable: " + breakableCount);
+
+
+            //   SimulateWin();
         }
         else
         {
@@ -60,12 +84,8 @@ public class Brick : MonoBehaviour
     }
 
     //TODO: make sure is last block before win
-    void SimulateWin()
-    {
+    void SimulateWin() {
         levelManager = GameObject.FindObjectOfType<LevelManager>();
-
-        // OFF for now
-        //
-        //levelManager.LoadNextLevel(SceneManager.GetActiveScene());
+        levelManager.LoadNextLevel();
     }
 }
