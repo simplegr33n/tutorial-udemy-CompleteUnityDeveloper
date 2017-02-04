@@ -3,22 +3,24 @@ using UnityEngine;
 
 public class LevelManager : MonoBehaviour
 {
-    // TODO: trigger this from brick, not here
-    // Doesn't work like the unity vid at present for some reason.
-    void Update()
-    {
-        BrickDestroyed();
-    }
 
     public void LoadLevel(string name)
     {
+
+        Brick.breakableCount = 0;
+
+
         SceneManager.LoadScene(name);
         Debug.Log(name + " Loaded...");
+
+        
     }
 
     public void LoadNextLevel()
     {
-      
+
+        Brick.breakableCount = 0;
+
         string next = null;
 
         Scene scene = SceneManager.GetActiveScene();
@@ -43,6 +45,7 @@ public class LevelManager : MonoBehaviour
 
         SceneManager.LoadScene(next);
         Debug.Log(next + " Loaded...");
+
     }
 
     public void BrickDestroyed()
@@ -53,6 +56,7 @@ public class LevelManager : MonoBehaviour
         if (Brick.breakableCount <= 0)
         {
             print("Brick.breakableCount: " + Brick.breakableCount);
+
             LoadNextLevel();
         }
     }

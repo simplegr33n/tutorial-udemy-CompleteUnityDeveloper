@@ -31,11 +31,6 @@ public class Brick : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     // Count times hit, Destroy gameObject if timeshit >= maxHits
     void OnCollisionEnter2D(Collision2D collision)
@@ -60,10 +55,12 @@ public class Brick : MonoBehaviour
             //TODO: get below working rather than calling BrickDestroyed in 
             // LevelManager Update
             breakableCount--;
-          
-            Destroy(gameObject);
 
             levelManager.BrickDestroyed();
+
+            Destroy(gameObject);
+
+            
 
 
             print("Breakable: " + breakableCount);
