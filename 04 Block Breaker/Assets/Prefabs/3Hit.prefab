@@ -88,6 +88,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a527bbcdb28fa1c4f82d23e120906249, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  crack: {fileID: 8300000, guid: 9d254d310d0a3ef4bbca32f24dc755b1, type: 3}
+  smoke: {fileID: 1399176618739340, guid: 9f4e06ae4b829364c8851b99b243f4af, type: 2}
   hitSprites:
   - {fileID: 21300006, guid: 00baa68af66665348a32911b7d7a70b4, type: 3}
   - {fileID: 21300012, guid: 00baa68af66665348a32911b7d7a70b4, type: 3}

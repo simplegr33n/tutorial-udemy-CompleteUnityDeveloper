@@ -20,9 +20,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4624450235271626}
   - component: {fileID: 212583227318010526}
-  - component: {fileID: 61453013800409814}
   - component: {fileID: 50037801138202054}
   - component: {fileID: 114658105946365360}
+  - component: {fileID: 60965450221592350}
   m_Layer: 0
   m_Name: Paddle
   m_TagString: Untagged
@@ -63,8 +63,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!61 &61453013800409814
-BoxCollider2D:
+--- !u!60 &60965450221592350
+PolygonCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -75,8 +75,17 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Size: {x: 1, y: 0.3203125}
+  m_Points:
+    m_Paths:
+    - - {x: 0.23864746, y: 0.10626781}
+      - {x: 0.0006914139, y: 0.11120731}
+      - {x: -0.27256203, y: 0.10003239}
+      - {x: -0.48525524, y: 0.04912126}
+      - {x: -0.54474163, y: 0.0043787956}
+      - {x: -0.5512767, y: -0.5026201}
+      - {x: 0.55228806, y: -0.49492538}
+      - {x: 0.5483904, y: 0.0017106533}
+      - {x: 0.48334408, y: 0.057444394}
 --- !u!114 &114658105946365360
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -88,6 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 525a27b9a70aa0244ba520c88aaa5ca2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  autoPlay: 0
 --- !u!212 &212583227318010526
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -119,7 +129,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 00baa68af66665348a32911b7d7a70b4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b5bacf471ee2d224f84abec2fe604e1f, type: 3}
   m_Color: {r: 0.5084883, g: 0.7188603, b: 0.72794116, a: 1}
   m_FlipX: 0
   m_FlipY: 0

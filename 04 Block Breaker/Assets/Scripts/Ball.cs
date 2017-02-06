@@ -14,6 +14,8 @@ public class Ball : MonoBehaviour {
         paddle = GameObject.FindObjectOfType<Paddle>();
 
         paddleToBallVector = this.transform.position - paddle.transform.position;
+
+       
 		
 	}
 	
@@ -31,8 +33,29 @@ public class Ball : MonoBehaviour {
 
                 Rigidbody2D rigidBody = GetComponent<Rigidbody2D>();
 
-                rigidBody.velocity = new Vector2(0, 14f);
+                rigidBody.velocity = new Vector2(Random.Range(-0.1f,0.1f), 14f);
             }
+        }
+    }
+
+
+    void OnTriggerEnter2D(Collider2D trigger)
+    {
+        print("Ball Trigger");
+    }
+
+    // Count times hit, Destroy gameObject if timeshit >= maxHits
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        Vector2 tweak = new Vector2(Random.Range(0f, 0.2f), Random.Range(0f,0.2f));
+
+        print("Ball Collision");
+
+        if (isReleased)
+        {
+            GetComponent<AudioSource>().Play();
+            GetComponent<Rigidbody2D>().velocity += tweak;
         }
     }
 }

@@ -11,7 +11,6 @@ public class LevelManager : MonoBehaviour
 
 
         SceneManager.LoadScene(name);
-        Debug.Log(name + " Loaded...");
 
         
     }
@@ -24,8 +23,6 @@ public class LevelManager : MonoBehaviour
         string next = null;
 
         Scene scene = SceneManager.GetActiveScene();
-
-        print(scene.name + " is......");
 
         switch (scene.name)
         {
@@ -44,18 +41,17 @@ public class LevelManager : MonoBehaviour
         }
 
         SceneManager.LoadScene(next);
-        Debug.Log(next + " Loaded...");
+
 
     }
 
     public void BrickDestroyed()
     {
 
-        print("Brick.breakableCount: " + Brick.breakableCount);
 
         if (Brick.breakableCount <= 0)
         {
-            print("Brick.breakableCount: " + Brick.breakableCount);
+
 
             LoadNextLevel();
         }
