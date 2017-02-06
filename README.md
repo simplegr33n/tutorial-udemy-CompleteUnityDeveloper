@@ -1,5 +1,5 @@
 # Unity
-** Complete Unity Developer **
+** Complete Unity Developer Series **
 
 ## Project 1
 
