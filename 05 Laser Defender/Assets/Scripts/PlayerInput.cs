@@ -27,7 +27,7 @@ public class PlayerInput : MonoBehaviour {
             if (shipPosition < 6)
             {
                 shipPosition += changeRate * Time.deltaTime;
-                playerShip.transform.position = new Vector3(Mathf.Clamp((shipPosition), -15.5f, 15.5f), -4f, 0);
+                playerShip.transform.position = new Vector3(Mathf.Clamp((shipPosition), -15.5f, 15.5f), -4f, -1f);
             }
         }
 
@@ -38,7 +38,7 @@ public class PlayerInput : MonoBehaviour {
             if (shipPosition > -6)
             {
                 shipPosition -= changeRate * Time.deltaTime;
-                playerShip.transform.position = new Vector3(Mathf.Clamp((shipPosition), -15.5f, 15.5f), -4f, 0);
+                playerShip.transform.position = new Vector3(Mathf.Clamp((shipPosition), -15.5f, 15.5f), -4f, -1f);
             }
         }
 
