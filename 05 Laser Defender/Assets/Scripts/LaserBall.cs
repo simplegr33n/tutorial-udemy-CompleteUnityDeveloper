@@ -16,6 +16,8 @@ public class LaserBall : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        //TODO: impact with enemies/leaving the screen behavior
+
         transform.position += Vector3.up * speed * Time.deltaTime;
 
     }
