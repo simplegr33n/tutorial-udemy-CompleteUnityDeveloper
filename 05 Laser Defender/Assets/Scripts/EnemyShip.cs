@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class EnemyShip : MonoBehaviour {
 
-    private bool moveRight = true;
-
-    private float enemyPosition = 0;
 
     private EnemyShip enemyShip;
 
@@ -15,32 +12,14 @@ public class EnemyShip : MonoBehaviour {
 
         enemyShip = GameObject.FindObjectOfType<EnemyShip>();
 
+        print("enemyship.transform: " + enemyShip.transform.position.y);
+
     }
 	
 	// Update is called once per frame
 	void Update () {
 
-        if (enemyPosition >= 6)
-        {
-            moveRight = false;
-        }
-
-        if (enemyPosition <= -6)
-        {
-            moveRight = true;
-        }
-
-        if (moveRight)
-        {
-            enemyPosition += 0.1f;
-            enemyShip.transform.position = new Vector3(enemyPosition, 0f, -1f);
-        }
-
-        if (!moveRight)
-        {
-            enemyPosition -= 0.1f;
-            enemyShip.transform.position = new Vector3(enemyPosition, 0f, -1f);
-        }
+    
 		
 	}
 }
