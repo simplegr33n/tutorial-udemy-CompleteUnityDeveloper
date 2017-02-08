@@ -7,17 +7,38 @@ public class EnemyShip : MonoBehaviour {
     private EnemyShip enemyShip;
     private int health = 2;
 
+    public int updateCap = 300;
+
+    public GameObject enemyLaser;
+
+    // TODO: Consider making a public static so whole formation shoots at given frequency 
+    private int updateCount = 0;
+
     // Use this for initialization
     void Start () {
 
         enemyShip = GameObject.FindObjectOfType<EnemyShip>();
+
+        // Start each ship at different offset
+        updateCount = Random.Range(1, updateCap);
 
     }
 	
 	// Update is called once per frame
 	void Update () {
 
-    
+        updateCount += 1;
+
+        if (updateCount >= updateCap)
+        {
+            updateCount = 0;
+
+            GameObject enemy = Instantiate(enemyLaser, transform.position, Quaternion.identity) as GameObject;
+
+            print("yolo");
+
+        }
+        
 		
 	}
 
@@ -26,7 +47,17 @@ public class EnemyShip : MonoBehaviour {
     {
         print("Ship Hit");
 
-        HandleHits();
+        if (collision.gameObject.tag == "EnemyIgnore")
+        {
+            
+            Physics.IgnoreCollision(enemyLaser.GetComponent<Collider>(), enemyShip.GetComponent<Collider>());
+        }
+
+        if (collision.gameObject.tag != "EnemyIgnore")
+        {
+
+            HandleHits();
+        }
        
     }
 

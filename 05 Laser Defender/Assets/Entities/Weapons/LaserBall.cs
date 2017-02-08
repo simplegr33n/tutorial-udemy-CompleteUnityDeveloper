@@ -29,7 +29,13 @@ public class LaserBall : MonoBehaviour {
     {
         print("Ball Hit");
 
-        Destroy(gameObject);
+
+        if (collision.gameObject.tag != "PlayerShip")
+        {
+
+            Destroy(gameObject);
+        }
+       
 
     }
 }
