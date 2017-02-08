@@ -20,5 +20,16 @@ public class LaserBall : MonoBehaviour {
 
         transform.position += Vector3.up * speed * Time.deltaTime;
 
+
+
+    }
+
+    // Count times hit, Destroy gameObject if timeshit >= maxHits
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        print("Ball Hit");
+
+        Destroy(gameObject);
+
     }
 }
