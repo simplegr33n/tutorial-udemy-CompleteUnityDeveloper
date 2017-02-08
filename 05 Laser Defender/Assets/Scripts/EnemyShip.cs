@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyShip : MonoBehaviour {
-
+public class EnemyShip : MonoBehaviour { 
 
     private EnemyShip enemyShip;
 

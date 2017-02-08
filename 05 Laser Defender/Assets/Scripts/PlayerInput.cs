@@ -6,6 +6,8 @@ public class PlayerInput : MonoBehaviour {
 
     private PlayerShip playerShip;
 
+    public GameObject laserBall;
+
     private float shipPosition = 0;
 
     public float changeRate = 10f;
@@ -39,6 +41,16 @@ public class PlayerInput : MonoBehaviour {
             {
                 shipPosition -= changeRate * Time.deltaTime;
                 playerShip.transform.position = new Vector3(Mathf.Clamp((shipPosition), -15.5f, 15.5f), -4f, -1f);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            print("Space was pressed");
+
+            {
+                GameObject enemy = Instantiate(laserBall, playerShip.transform.position, Quaternion.identity) as GameObject;
+
             }
         }
 
