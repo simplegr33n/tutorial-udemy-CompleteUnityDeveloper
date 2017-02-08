@@ -12,7 +12,9 @@ public class EnemyShip : MonoBehaviour {
 
         enemyShip = GameObject.FindObjectOfType<EnemyShip>();
 
-        print("enemyship.transform: " + enemyShip.transform.position.y);
+        print("enemyship.transform.x: " + transform.position.x);
+        print("enemyship.transform.y: " + transform.position.y);
+        print("enemyship.transform.z: " + transform.position.z);
 
     }
 	
