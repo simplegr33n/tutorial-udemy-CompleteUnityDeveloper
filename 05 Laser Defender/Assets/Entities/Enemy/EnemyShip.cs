@@ -11,6 +11,8 @@ public class EnemyShip : MonoBehaviour {
 
     public GameObject enemyLaser;
 
+    public GameObject deathParticles;
+
     // TODO: Consider making a public static so whole formation shoots at given frequency 
     private int updateCount = 0;
 
@@ -70,10 +72,16 @@ public class EnemyShip : MonoBehaviour {
 
     void HandleHits()
     {
+
+
         health--;
 
         if (health <= 0)
         {
+
+
+            GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
+
 
             Destroy(gameObject);
 

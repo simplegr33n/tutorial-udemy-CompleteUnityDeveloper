@@ -12,6 +12,8 @@ public class PlayerInput : MonoBehaviour {
 
     public float changeRate = 10f;
 
+    public float firingRate;
+
 	// Use this for initialization
 	void Start () {
 
@@ -46,13 +48,23 @@ public class PlayerInput : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            print("Space was pressed");
 
-            {
-                GameObject enemy = Instantiate(laserBall, playerShip.transform.position, Quaternion.identity) as GameObject;
+            InvokeRepeating("Fire", 0.000001f, firingRate);
 
-            }
+        }
+        
+
+        if (Input.GetKeyUp(KeyCode.Space))
+        {
+      
+            CancelInvoke("Fire");
+        
         }
 
+    }
+
+    void Fire()
+    {
+        GameObject beam = Instantiate(laserBall, playerShip.transform.position, Quaternion.identity) as GameObject;
     }
 }

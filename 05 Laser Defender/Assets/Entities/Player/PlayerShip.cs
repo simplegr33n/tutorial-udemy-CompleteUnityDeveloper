@@ -8,6 +8,8 @@ public class PlayerShip : MonoBehaviour {
 
     public GameObject laserBall;
 
+    public GameObject deathParticles;
+
     // Count times hit, Destroy gameObject if timeshit >= maxHits
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -36,7 +38,11 @@ public class PlayerShip : MonoBehaviour {
         if (health <= 0)
         {
 
+            GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
+
+
             Destroy(gameObject);
+
 
 
             print("Player Down");
