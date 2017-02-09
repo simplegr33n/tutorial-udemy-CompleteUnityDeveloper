@@ -5,13 +5,15 @@ public class EnemyController : MonoBehaviour
 {
     public GameObject enemyPrefab;
 
-    public float minX;
-    public float maxX;
+    public float minX = -2f;
+    public float maxX = 2f;
 
     public float width = 10f;
     public float height = 5f;
 
-    public float speed = 5f;
+    public float speed = 3f;
+
+    public float spawnDelay = 0.1f;
 
     private bool moveRight = true;
 
@@ -31,17 +33,19 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // get enemys
+        // get enemys if shipsCount  <= 0
         if (EnemyShip.shipsCount <= 0)
         {
-            foreach (Transform child in transform)
-            {
-                GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
-                enemy.transform.parent = child;
-            }
+                Respawn();         
         }
 
+        // move the formation
+        MoveFormation();
 
+    }
+
+    void MoveFormation()
+    {
 
         if (transform.position.x >= maxX)
         {
@@ -62,7 +66,31 @@ public class EnemyController : MonoBehaviour
         {
             transform.position += Vector3.left * speed * Time.deltaTime;
         }
-
-
     }
+
+    void Respawn()
+    {
+        Transform freePosition = NextFreePosition();
+
+        if (freePosition) { 
+            GameObject enemy = Instantiate(enemyPrefab, freePosition.position, Quaternion.identity) as GameObject;
+            enemy.transform.parent = freePosition;
+        }
+
+        if (NextFreePosition())
+        {
+            Invoke("Respawn", spawnDelay);
+        }       
+    }
+
+    Transform NextFreePosition()
+    {
+        foreach(Transform childPositionGameObject in transform)
+
+        if (childPositionGameObject.childCount == 0) {
+            return childPositionGameObject;
+        }
+        return null;
+    }
+
 }
