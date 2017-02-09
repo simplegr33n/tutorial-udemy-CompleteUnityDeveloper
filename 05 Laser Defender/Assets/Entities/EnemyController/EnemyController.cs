@@ -19,11 +19,7 @@ public class EnemyController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        foreach (Transform child in transform)
-        {
-            GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
-            enemy.transform.parent = child;
-        }
+
 
     }
 
@@ -35,6 +31,17 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // get enemys
+        if (EnemyShip.shipsCount <= 0)
+        {
+            foreach (Transform child in transform)
+            {
+                GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
+                enemy.transform.parent = child;
+            }
+        }
+
+
 
         if (transform.position.x >= maxX)
         {

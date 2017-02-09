@@ -15,9 +15,13 @@ public class EnemyShip : MonoBehaviour {
 
     public GameObject deathParticles;
 
+    public static int shipsCount = 0;
+
 
     // Use this for initialization
     void Start () {
+
+        shipsCount += 1;
 
         enemyShip = GameObject.FindObjectOfType<EnemyShip>();
 
@@ -71,6 +75,7 @@ public class EnemyShip : MonoBehaviour {
 
             GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
 
+            shipsCount -= 1;
 
             Destroy(gameObject);
 
