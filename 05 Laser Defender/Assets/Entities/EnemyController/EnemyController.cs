@@ -13,7 +13,7 @@ public class EnemyController : MonoBehaviour
 
     public float speed = 3f;
 
-    public float spawnDelay = 0.1f;
+    public float spawnDelay = 0.2f;
 
     private bool moveRight = true;
 
