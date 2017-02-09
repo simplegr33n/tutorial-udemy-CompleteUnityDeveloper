@@ -15,18 +15,10 @@ public class PlayerShip : MonoBehaviour {
     {
         print("Ship Hit");
 
-        if (collision.gameObject.tag == "EnemyIgnore")
-        {
+ 
             HandleHits();
+    
 
-        }
-
-        if (collision.gameObject.tag == "LaserBall")
-        {
-
-            Physics.IgnoreCollision(laserBall.GetComponent<Collider>(), laserBall.GetComponent<Collider>());
-
-        }
 
     }
 

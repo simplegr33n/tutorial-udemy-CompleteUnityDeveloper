@@ -31,8 +31,8 @@ public class EnemyLaser : MonoBehaviour {
 
         if (collision.gameObject.tag == "EnemyIgnore")
         {
-            EnemyShip enemyShip = GameObject.FindObjectOfType<EnemyShip>();
-            Physics.IgnoreCollision(enemyLaser.GetComponent<Collider>(), enemyShip.GetComponent<Collider>());
+         //   EnemyShip enemyShip = GameObject.FindObjectOfType<EnemyShip>();
+        //    Physics.IgnoreCollision(enemyLaser.GetComponent<Collider>(), enemyShip.GetComponent<Collider>());
         }
 
         if (collision.gameObject.tag != "EnemyIgnore") { 

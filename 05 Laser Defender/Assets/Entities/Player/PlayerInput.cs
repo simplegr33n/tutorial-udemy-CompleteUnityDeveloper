@@ -65,6 +65,7 @@ public class PlayerInput : MonoBehaviour {
 
     void Fire()
     {
-        GameObject beam = Instantiate(laserBall, playerShip.transform.position, Quaternion.identity) as GameObject;
+        Vector3 offset = new Vector3(0, 0.5f, 0);
+        GameObject beam = Instantiate(laserBall, playerShip.transform.position + offset, Quaternion.identity) as GameObject;
     }
 }
