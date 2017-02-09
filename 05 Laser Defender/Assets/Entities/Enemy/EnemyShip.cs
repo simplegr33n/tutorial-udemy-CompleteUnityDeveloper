@@ -17,9 +17,12 @@ public class EnemyShip : MonoBehaviour {
 
     public static int shipsCount = 0;
 
+    public static int killCount = 0;
+
 
     // Use this for initialization
     void Start () {
+
 
         shipsCount += 1;
 
@@ -74,6 +77,8 @@ public class EnemyShip : MonoBehaviour {
 
 
             GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
+
+            killCount += 1;
 
             shipsCount -= 1;
 
