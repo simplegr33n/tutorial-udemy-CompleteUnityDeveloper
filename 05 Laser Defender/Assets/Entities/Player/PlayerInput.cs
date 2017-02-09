@@ -12,7 +12,7 @@ public class PlayerInput : MonoBehaviour {
 
     public float changeRate = 10f;
 
-    public float firingRate;
+    public float firingRate = 0.5f;
 
 	// Use this for initialization
 	void Start () {

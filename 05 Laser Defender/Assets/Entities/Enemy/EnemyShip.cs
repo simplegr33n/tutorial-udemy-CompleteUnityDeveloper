@@ -21,6 +21,8 @@ public class EnemyShip : MonoBehaviour {
 
     public AudioClip explosion;
 
+    public AudioClip arriveSound;
+
 
     // Use this for initialization
     void Start () {
@@ -29,6 +31,8 @@ public class EnemyShip : MonoBehaviour {
         shipsCount += 1;
 
         enemyShip = GameObject.FindObjectOfType<EnemyShip>();
+
+        AudioSource.PlayClipAtPoint(arriveSound, transform.position, 0.5f);
 
     }
 	
