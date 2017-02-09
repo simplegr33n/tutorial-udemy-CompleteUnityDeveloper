@@ -83,6 +83,8 @@ public class EnemyController : MonoBehaviour
         }       
     }
 
+
+    // TODO: Should use the below childCount logic to determine when to respawn also
     Transform NextFreePosition()
     {
         foreach(Transform childPositionGameObject in transform)
