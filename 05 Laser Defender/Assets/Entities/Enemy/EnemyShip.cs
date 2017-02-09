@@ -82,6 +82,8 @@ public class EnemyShip : MonoBehaviour {
 
             shipsCount -= 1;
 
+            RunningScore.Score();
+
             Destroy(gameObject);
 
 

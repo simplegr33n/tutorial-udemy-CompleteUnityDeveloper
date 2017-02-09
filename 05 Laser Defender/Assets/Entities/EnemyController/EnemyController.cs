@@ -22,7 +22,6 @@ public class EnemyController : MonoBehaviour
     void Start()
     {
 
-
     }
 
     public void OnDrawGizmos()

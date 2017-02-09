@@ -10,6 +10,8 @@ public class PlayerShip : MonoBehaviour {
 
     public GameObject deathParticles;
 
+    public LevelManager levelManager;
+
     // Count times hit, Destroy gameObject if timeshit >= maxHits
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -33,11 +35,13 @@ public class PlayerShip : MonoBehaviour {
             GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
 
 
-            Destroy(gameObject);
+           // Destroy(gameObject);
 
 
 
-            print("Player Down");
+            print("Player Lose");
+
+            levelManager.LoadLevel("Lose");
 
 
             //   SimulateWin();
