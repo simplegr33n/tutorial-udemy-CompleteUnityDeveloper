@@ -11,6 +11,7 @@ public class EnemyLaser : MonoBehaviour {
     // Use this for initialization
     void Start () {
         enemyLaser = GameObject.FindObjectOfType<EnemyLaser>();
+        GetComponent<AudioSource>().Play();
     }
 	
 	// Update is called once per frame

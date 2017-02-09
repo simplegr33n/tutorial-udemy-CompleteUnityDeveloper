@@ -11,6 +11,7 @@ public class LaserBall : MonoBehaviour {
     // Use this for initialization
     void Start () {
         laserBall = GameObject.FindObjectOfType<LaserBall>();
+        GetComponent<AudioSource>().Play();
     }
 	
 	// Update is called once per frame

@@ -19,6 +19,8 @@ public class EnemyShip : MonoBehaviour {
 
     public static int killCount = 0;
 
+    public AudioClip explosion;
+
 
     // Use this for initialization
     void Start () {
@@ -55,6 +57,10 @@ public class EnemyShip : MonoBehaviour {
     {
         print("Ship Hit");
 
+
+      
+
+    
         HandleHits();
        
        
@@ -75,6 +81,12 @@ public class EnemyShip : MonoBehaviour {
         if (health <= 0)
         {
 
+            // NOT:
+            // GetComponent<AudioSource>().Play();
+            //
+            // Play at delay:
+            AudioSource.PlayClipAtPoint(explosion, transform.position, 0.5f);
+
 
             GameObject death = Instantiate(deathParticles, transform.position, Quaternion.identity) as GameObject;
 
@@ -83,6 +95,7 @@ public class EnemyShip : MonoBehaviour {
             shipsCount -= 1;
 
             RunningScore.Score();
+
 
             Destroy(gameObject);
 

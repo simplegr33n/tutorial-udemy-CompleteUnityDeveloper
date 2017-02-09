@@ -6,19 +6,20 @@ public class PlayerShip : MonoBehaviour {
 
     private int health = 3;
 
-    public GameObject laserBall;
-
     public GameObject deathParticles;
 
     public LevelManager levelManager;
+
+    public AudioClip explosion;
 
     // Count times hit, Destroy gameObject if timeshit >= maxHits
     void OnCollisionEnter2D(Collision2D collision)
     {
         print("Ship Hit");
 
- 
-            HandleHits();
+        AudioSource.PlayClipAtPoint(explosion, transform.position, 1f);
+
+        HandleHits();
     
 
 
