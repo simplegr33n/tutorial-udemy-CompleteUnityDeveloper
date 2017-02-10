@@ -16,28 +16,14 @@ public class Splash : MonoBehaviour
 
     void Start()
     {
-        // - After 0 seconds, prints "Starting 0.0"
-        // - After 0 seconds, prints "Before WaitAndChangeLevel Finishes 0.0"
-        // - After 2 seconds, prints "WaitAndChangeLevel 2.0"
-        print("Starting " + Time.time);
+        // Much easier than using coroutine I think
+        Invoke("LoadStart", splashWait);
 
-        // Start function WaitAndPrint as a coroutine.
-
-        coroutine = WaitAndChangeLevel(splashWait);
-        StartCoroutine(coroutine);
-
-        print("Before WaitAndChangeLevel Finishes " + Time.time);
     }
 
-    // Start level after waitTime
-    private IEnumerator WaitAndChangeLevel(float waitTime)
+    void LoadStart()
     {
-        while (true)
-        {
-            yield return new WaitForSeconds(waitTime);
-            print("WaitAndChangeLevel " + Time.time);
-
-            levelManager.LoadLevel("Start");
-        }
+        levelManager.LoadLevel("Start");
     }
 }
+       
