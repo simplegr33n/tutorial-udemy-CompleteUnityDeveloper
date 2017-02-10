@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83fb1ca6e5e6dba46b1afd193b7ece57
+timeCreated: 1486756710
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: plantiya2
+  fontNames:
+  - plantiya2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
