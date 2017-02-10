@@ -12,7 +12,7 @@ public class Splash : MonoBehaviour
 
     public LevelManager levelManager;
 
-    public float splashWait = 2.0f;
+    public float splashWait = 3.0f;
 
     void Start()
     {
