@@ -16,13 +16,14 @@ public class MusicPlayer : MonoBehaviour {
         // Start player
         music = GetComponent<AudioSource>();
 
+        music.volume = PlayerPrefsManager.GetMasterVolume();
+
         music.clip = musicClips[0];
         music.loop = true;
         music.Play();
 
         DontDestroyOnLoad(music);
             
-        print("MusicPlayer Created");
     }
 
     void OnLevelWasLoaded(int level)
@@ -55,6 +56,11 @@ public class MusicPlayer : MonoBehaviour {
         }
 
 
+    }
+
+    public void SetVolume(float volume)
+    {
+        music.volume = volume;
     }
 
 
