@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 
 public class MusicPlayer : MonoBehaviour {
 
-    public AudioClip startClip;
+    public AudioClip[] musicClips;
 
     private AudioSource music;
 
@@ -16,7 +16,7 @@ public class MusicPlayer : MonoBehaviour {
         // Start player
         music = GetComponent<AudioSource>();
 
-        music.clip = startClip;
+        music.clip = musicClips[0];
         music.loop = true;
         music.Play();
 
@@ -24,7 +24,39 @@ public class MusicPlayer : MonoBehaviour {
             
         print("MusicPlayer Created");
     }
-    
+
+    void OnLevelWasLoaded(int level)
+    {
+     
+
+        if (level == 3)
+        {
+            music.Stop();
+            music.clip = musicClips[1];
+            music.loop = true;
+            music.Play();
+        }
+
+        if (level == 4)
+        {
+            music.Stop();
+            music.clip = musicClips[0];
+            music.loop = true;
+            music.Play();
+        }
+
+        //TODO: lose will change from 5 to 7 probably
+        if (level == 5)
+        {
+            music.Stop();
+            music.clip = musicClips[2];
+            music.loop = true;
+            music.Play();
+        }
+
+
+    }
+
 
 
     // Use this for initialization

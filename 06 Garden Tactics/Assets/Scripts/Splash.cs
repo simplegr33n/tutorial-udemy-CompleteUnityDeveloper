@@ -23,7 +23,7 @@ public class Splash : MonoBehaviour
 
     void LoadStart()
     {
-        levelManager.LoadLevel("Start");
+        levelManager.LoadLevel("01a Start");
     }
 }
        
