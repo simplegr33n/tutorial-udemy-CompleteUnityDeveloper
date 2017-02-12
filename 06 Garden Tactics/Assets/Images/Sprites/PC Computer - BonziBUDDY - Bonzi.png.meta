@@ -1,0 +1,4934 @@
+fileFormatVersion: 2
+guid: 2e727e75878f69546901455832d8ecad
+timeCreated: 1486862857
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - BonziBUDDY - Bonzi_0
+    21300002: PC Computer - BonziBUDDY - Bonzi_1
+    21300004: PC Computer - BonziBUDDY - Bonzi_2
+    21300006: PC Computer - BonziBUDDY - Bonzi_3
+    21300008: PC Computer - BonziBUDDY - Bonzi_4
+    21300010: PC Computer - BonziBUDDY - Bonzi_5
+    21300012: PC Computer - BonziBUDDY - Bonzi_6
+    21300014: PC Computer - BonziBUDDY - Bonzi_7
+    21300016: PC Computer - BonziBUDDY - Bonzi_8
+    21300018: PC Computer - BonziBUDDY - Bonzi_9
+    21300020: PC Computer - BonziBUDDY - Bonzi_10
+    21300022: PC Computer - BonziBUDDY - Bonzi_11
+    21300024: PC Computer - BonziBUDDY - Bonzi_12
+    21300026: PC Computer - BonziBUDDY - Bonzi_13
+    21300028: PC Computer - BonziBUDDY - Bonzi_14
+    21300030: PC Computer - BonziBUDDY - Bonzi_15
+    21300032: PC Computer - BonziBUDDY - Bonzi_16
+    21300034: PC Computer - BonziBUDDY - Bonzi_17
+    21300036: PC Computer - BonziBUDDY - Bonzi_18
+    21300038: PC Computer - BonziBUDDY - Bonzi_19
+    21300040: PC Computer - BonziBUDDY - Bonzi_20
+    21300042: PC Computer - BonziBUDDY - Bonzi_21
+    21300044: PC Computer - BonziBUDDY - Bonzi_22
+    21300046: PC Computer - BonziBUDDY - Bonzi_23
+    21300048: PC Computer - BonziBUDDY - Bonzi_24
+    21300050: PC Computer - BonziBUDDY - Bonzi_25
+    21300052: PC Computer - BonziBUDDY - Bonzi_26
+    21300054: PC Computer - BonziBUDDY - Bonzi_27
+    21300056: PC Computer - BonziBUDDY - Bonzi_28
+    21300058: PC Computer - BonziBUDDY - Bonzi_29
+    21300060: PC Computer - BonziBUDDY - Bonzi_30
+    21300062: PC Computer - BonziBUDDY - Bonzi_31
+    21300064: PC Computer - BonziBUDDY - Bonzi_32
+    21300066: PC Computer - BonziBUDDY - Bonzi_33
+    21300068: PC Computer - BonziBUDDY - Bonzi_34
+    21300070: PC Computer - BonziBUDDY - Bonzi_35
+    21300072: PC Computer - BonziBUDDY - Bonzi_36
+    21300074: PC Computer - BonziBUDDY - Bonzi_37
+    21300076: PC Computer - BonziBUDDY - Bonzi_38
+    21300078: PC Computer - BonziBUDDY - Bonzi_39
+    21300080: PC Computer - BonziBUDDY - Bonzi_40
+    21300082: PC Computer - BonziBUDDY - Bonzi_41
+    21300084: PC Computer - BonziBUDDY - Bonzi_42
+    21300086: PC Computer - BonziBUDDY - Bonzi_43
+    21300088: PC Computer - BonziBUDDY - Bonzi_44
+    21300090: PC Computer - BonziBUDDY - Bonzi_45
+    21300092: PC Computer - BonziBUDDY - Bonzi_46
+    21300094: PC Computer - BonziBUDDY - Bonzi_47
+    21300096: PC Computer - BonziBUDDY - Bonzi_48
+    21300098: PC Computer - BonziBUDDY - Bonzi_49
+    21300100: PC Computer - BonziBUDDY - Bonzi_50
+    21300102: PC Computer - BonziBUDDY - Bonzi_51
+    21300104: PC Computer - BonziBUDDY - Bonzi_52
+    21300106: PC Computer - BonziBUDDY - Bonzi_53
+    21300108: PC Computer - BonziBUDDY - Bonzi_54
+    21300110: PC Computer - BonziBUDDY - Bonzi_55
+    21300112: PC Computer - BonziBUDDY - Bonzi_56
+    21300114: PC Computer - BonziBUDDY - Bonzi_57
+    21300116: PC Computer - BonziBUDDY - Bonzi_58
+    21300118: PC Computer - BonziBUDDY - Bonzi_59
+    21300120: PC Computer - BonziBUDDY - Bonzi_60
+    21300122: PC Computer - BonziBUDDY - Bonzi_61
+    21300124: PC Computer - BonziBUDDY - Bonzi_62
+    21300126: PC Computer - BonziBUDDY - Bonzi_63
+    21300128: PC Computer - BonziBUDDY - Bonzi_64
+    21300130: PC Computer - BonziBUDDY - Bonzi_65
+    21300132: PC Computer - BonziBUDDY - Bonzi_66
+    21300134: PC Computer - BonziBUDDY - Bonzi_67
+    21300136: PC Computer - BonziBUDDY - Bonzi_68
+    21300138: PC Computer - BonziBUDDY - Bonzi_69
+    21300140: PC Computer - BonziBUDDY - Bonzi_70
+    21300142: PC Computer - BonziBUDDY - Bonzi_71
+    21300144: PC Computer - BonziBUDDY - Bonzi_72
+    21300146: PC Computer - BonziBUDDY - Bonzi_73
+    21300148: PC Computer - BonziBUDDY - Bonzi_74
+    21300150: PC Computer - BonziBUDDY - Bonzi_75
+    21300152: PC Computer - BonziBUDDY - Bonzi_76
+    21300154: PC Computer - BonziBUDDY - Bonzi_77
+    21300156: PC Computer - BonziBUDDY - Bonzi_78
+    21300158: PC Computer - BonziBUDDY - Bonzi_79
+    21300160: PC Computer - BonziBUDDY - Bonzi_80
+    21300162: PC Computer - BonziBUDDY - Bonzi_81
+    21300164: PC Computer - BonziBUDDY - Bonzi_82
+    21300166: PC Computer - BonziBUDDY - Bonzi_83
+    21300168: PC Computer - BonziBUDDY - Bonzi_84
+    21300170: PC Computer - BonziBUDDY - Bonzi_85
+    21300172: PC Computer - BonziBUDDY - Bonzi_86
+    21300174: PC Computer - BonziBUDDY - Bonzi_87
+    21300176: PC Computer - BonziBUDDY - Bonzi_88
+    21300178: PC Computer - BonziBUDDY - Bonzi_89
+    21300180: PC Computer - BonziBUDDY - Bonzi_90
+    21300182: PC Computer - BonziBUDDY - Bonzi_91
+    21300184: PC Computer - BonziBUDDY - Bonzi_92
+    21300186: PC Computer - BonziBUDDY - Bonzi_93
+    21300188: PC Computer - BonziBUDDY - Bonzi_94
+    21300190: PC Computer - BonziBUDDY - Bonzi_95
+    21300192: PC Computer - BonziBUDDY - Bonzi_96
+    21300194: PC Computer - BonziBUDDY - Bonzi_97
+    21300196: PC Computer - BonziBUDDY - Bonzi_98
+    21300198: PC Computer - BonziBUDDY - Bonzi_99
+    21300200: PC Computer - BonziBUDDY - Bonzi_100
+    21300202: PC Computer - BonziBUDDY - Bonzi_101
+    21300204: PC Computer - BonziBUDDY - Bonzi_102
+    21300206: PC Computer - BonziBUDDY - Bonzi_103
+    21300208: PC Computer - BonziBUDDY - Bonzi_104
+    21300210: PC Computer - BonziBUDDY - Bonzi_105
+    21300212: PC Computer - BonziBUDDY - Bonzi_106
+    21300214: PC Computer - BonziBUDDY - Bonzi_107
+    21300216: PC Computer - BonziBUDDY - Bonzi_108
+    21300218: PC Computer - BonziBUDDY - Bonzi_109
+    21300220: PC Computer - BonziBUDDY - Bonzi_110
+    21300222: PC Computer - BonziBUDDY - Bonzi_111
+    21300224: PC Computer - BonziBUDDY - Bonzi_112
+    21300226: PC Computer - BonziBUDDY - Bonzi_113
+    21300228: PC Computer - BonziBUDDY - Bonzi_114
+    21300230: PC Computer - BonziBUDDY - Bonzi_115
+    21300232: PC Computer - BonziBUDDY - Bonzi_116
+    21300234: PC Computer - BonziBUDDY - Bonzi_117
+    21300236: PC Computer - BonziBUDDY - Bonzi_118
+    21300238: PC Computer - BonziBUDDY - Bonzi_119
+    21300240: PC Computer - BonziBUDDY - Bonzi_120
+    21300242: PC Computer - BonziBUDDY - Bonzi_121
+    21300244: PC Computer - BonziBUDDY - Bonzi_122
+    21300246: PC Computer - BonziBUDDY - Bonzi_123
+    21300248: PC Computer - BonziBUDDY - Bonzi_124
+    21300250: PC Computer - BonziBUDDY - Bonzi_125
+    21300252: PC Computer - BonziBUDDY - Bonzi_126
+    21300254: PC Computer - BonziBUDDY - Bonzi_127
+    21300256: PC Computer - BonziBUDDY - Bonzi_128
+    21300258: PC Computer - BonziBUDDY - Bonzi_129
+    21300260: PC Computer - BonziBUDDY - Bonzi_130
+    21300262: PC Computer - BonziBUDDY - Bonzi_131
+    21300264: PC Computer - BonziBUDDY - Bonzi_132
+    21300266: PC Computer - BonziBUDDY - Bonzi_133
+    21300268: PC Computer - BonziBUDDY - Bonzi_134
+    21300270: PC Computer - BonziBUDDY - Bonzi_135
+    21300272: PC Computer - BonziBUDDY - Bonzi_136
+    21300274: PC Computer - BonziBUDDY - Bonzi_137
+    21300276: PC Computer - BonziBUDDY - Bonzi_138
+    21300278: PC Computer - BonziBUDDY - Bonzi_139
+    21300280: PC Computer - BonziBUDDY - Bonzi_140
+    21300282: PC Computer - BonziBUDDY - Bonzi_141
+    21300284: PC Computer - BonziBUDDY - Bonzi_142
+    21300286: PC Computer - BonziBUDDY - Bonzi_143
+    21300288: PC Computer - BonziBUDDY - Bonzi_144
+    21300290: PC Computer - BonziBUDDY - Bonzi_145
+    21300292: PC Computer - BonziBUDDY - Bonzi_146
+    21300294: PC Computer - BonziBUDDY - Bonzi_147
+    21300296: PC Computer - BonziBUDDY - Bonzi_148
+    21300298: PC Computer - BonziBUDDY - Bonzi_149
+    21300300: PC Computer - BonziBUDDY - Bonzi_150
+    21300302: PC Computer - BonziBUDDY - Bonzi_151
+    21300304: PC Computer - BonziBUDDY - Bonzi_152
+    21300306: PC Computer - BonziBUDDY - Bonzi_153
+    21300308: PC Computer - BonziBUDDY - Bonzi_154
+    21300310: PC Computer - BonziBUDDY - Bonzi_155
+    21300312: PC Computer - BonziBUDDY - Bonzi_156
+    21300314: PC Computer - BonziBUDDY - Bonzi_157
+    21300316: PC Computer - BonziBUDDY - Bonzi_158
+    21300318: PC Computer - BonziBUDDY - Bonzi_159
+    21300320: PC Computer - BonziBUDDY - Bonzi_160
+    21300322: PC Computer - BonziBUDDY - Bonzi_161
+    21300324: PC Computer - BonziBUDDY - Bonzi_162
+    21300326: PC Computer - BonziBUDDY - Bonzi_163
+    21300328: PC Computer - BonziBUDDY - Bonzi_164
+    21300330: PC Computer - BonziBUDDY - Bonzi_165
+    21300332: PC Computer - BonziBUDDY - Bonzi_166
+    21300334: PC Computer - BonziBUDDY - Bonzi_167
+    21300336: PC Computer - BonziBUDDY - Bonzi_168
+    21300338: PC Computer - BonziBUDDY - Bonzi_169
+    21300340: PC Computer - BonziBUDDY - Bonzi_170
+    21300342: PC Computer - BonziBUDDY - Bonzi_171
+    21300344: PC Computer - BonziBUDDY - Bonzi_172
+    21300346: PC Computer - BonziBUDDY - Bonzi_173
+    21300348: PC Computer - BonziBUDDY - Bonzi_174
+    21300350: PC Computer - BonziBUDDY - Bonzi_175
+    21300352: PC Computer - BonziBUDDY - Bonzi_176
+    21300354: PC Computer - BonziBUDDY - Bonzi_177
+    21300356: PC Computer - BonziBUDDY - Bonzi_178
+    21300358: PC Computer - BonziBUDDY - Bonzi_179
+    21300360: PC Computer - BonziBUDDY - Bonzi_180
+    21300362: PC Computer - BonziBUDDY - Bonzi_181
+    21300364: PC Computer - BonziBUDDY - Bonzi_182
+    21300366: PC Computer - BonziBUDDY - Bonzi_183
+    21300368: PC Computer - BonziBUDDY - Bonzi_184
+    21300370: PC Computer - BonziBUDDY - Bonzi_185
+    21300372: PC Computer - BonziBUDDY - Bonzi_186
+    21300374: PC Computer - BonziBUDDY - Bonzi_187
+    21300376: PC Computer - BonziBUDDY - Bonzi_188
+    21300378: PC Computer - BonziBUDDY - Bonzi_189
+    21300380: PC Computer - BonziBUDDY - Bonzi_190
+    21300382: PC Computer - BonziBUDDY - Bonzi_191
+    21300384: PC Computer - BonziBUDDY - Bonzi_192
+    21300386: PC Computer - BonziBUDDY - Bonzi_193
+    21300388: PC Computer - BonziBUDDY - Bonzi_194
+    21300390: PC Computer - BonziBUDDY - Bonzi_195
+    21300392: PC Computer - BonziBUDDY - Bonzi_196
+    21300394: PC Computer - BonziBUDDY - Bonzi_197
+    21300396: PC Computer - BonziBUDDY - Bonzi_198
+    21300398: PC Computer - BonziBUDDY - Bonzi_199
+    21300400: PC Computer - BonziBUDDY - Bonzi_200
+    21300402: PC Computer - BonziBUDDY - Bonzi_201
+    21300404: PC Computer - BonziBUDDY - Bonzi_202
+    21300406: PC Computer - BonziBUDDY - Bonzi_203
+    21300408: PC Computer - BonziBUDDY - Bonzi_204
+    21300410: PC Computer - BonziBUDDY - Bonzi_205
+    21300412: PC Computer - BonziBUDDY - Bonzi_206
+    21300414: PC Computer - BonziBUDDY - Bonzi_207
+    21300416: PC Computer - BonziBUDDY - Bonzi_208
+    21300418: PC Computer - BonziBUDDY - Bonzi_209
+    21300420: PC Computer - BonziBUDDY - Bonzi_210
+    21300422: PC Computer - BonziBUDDY - Bonzi_211
+    21300424: PC Computer - BonziBUDDY - Bonzi_212
+    21300426: PC Computer - BonziBUDDY - Bonzi_213
+    21300428: PC Computer - BonziBUDDY - Bonzi_214
+    21300430: PC Computer - BonziBUDDY - Bonzi_215
+    21300432: PC Computer - BonziBUDDY - Bonzi_216
+    21300434: PC Computer - BonziBUDDY - Bonzi_217
+    21300436: PC Computer - BonziBUDDY - Bonzi_218
+    21300438: PC Computer - BonziBUDDY - Bonzi_219
+    21300440: PC Computer - BonziBUDDY - Bonzi_220
+    21300442: PC Computer - BonziBUDDY - Bonzi_221
+    21300444: PC Computer - BonziBUDDY - Bonzi_222
+    21300446: PC Computer - BonziBUDDY - Bonzi_223
+    21300448: PC Computer - BonziBUDDY - Bonzi_224
+    21300450: PC Computer - BonziBUDDY - Bonzi_225
+    21300452: PC Computer - BonziBUDDY - Bonzi_226
+    21300454: PC Computer - BonziBUDDY - Bonzi_227
+    21300456: PC Computer - BonziBUDDY - Bonzi_228
+    21300458: PC Computer - BonziBUDDY - Bonzi_229
+    21300460: PC Computer - BonziBUDDY - Bonzi_230
+    21300462: PC Computer - BonziBUDDY - Bonzi_231
+    21300464: PC Computer - BonziBUDDY - Bonzi_232
+    21300466: PC Computer - BonziBUDDY - Bonzi_233
+    21300468: PC Computer - BonziBUDDY - Bonzi_234
+    21300470: PC Computer - BonziBUDDY - Bonzi_235
+    21300472: PC Computer - BonziBUDDY - Bonzi_236
+    21300474: PC Computer - BonziBUDDY - Bonzi_237
+    21300476: PC Computer - BonziBUDDY - Bonzi_238
+    21300478: PC Computer - BonziBUDDY - Bonzi_239
+    21300480: PC Computer - BonziBUDDY - Bonzi_240
+    21300482: PC Computer - BonziBUDDY - Bonzi_241
+    21300484: PC Computer - BonziBUDDY - Bonzi_242
+    21300486: PC Computer - BonziBUDDY - Bonzi_243
+    21300488: PC Computer - BonziBUDDY - Bonzi_244
+    21300490: PC Computer - BonziBUDDY - Bonzi_245
+    21300492: PC Computer - BonziBUDDY - Bonzi_246
+    21300494: PC Computer - BonziBUDDY - Bonzi_247
+    21300496: PC Computer - BonziBUDDY - Bonzi_248
+    21300498: PC Computer - BonziBUDDY - Bonzi_249
+    21300500: PC Computer - BonziBUDDY - Bonzi_250
+    21300502: PC Computer - BonziBUDDY - Bonzi_251
+    21300504: PC Computer - BonziBUDDY - Bonzi_252
+    21300506: PC Computer - BonziBUDDY - Bonzi_253
+    21300508: PC Computer - BonziBUDDY - Bonzi_254
+    21300510: PC Computer - BonziBUDDY - Bonzi_255
+    21300512: PC Computer - BonziBUDDY - Bonzi_256
+    21300514: PC Computer - BonziBUDDY - Bonzi_257
+    21300516: PC Computer - BonziBUDDY - Bonzi_258
+    21300518: PC Computer - BonziBUDDY - Bonzi_259
+    21300520: PC Computer - BonziBUDDY - Bonzi_260
+    21300522: PC Computer - BonziBUDDY - Bonzi_261
+    21300524: PC Computer - BonziBUDDY - Bonzi_262
+    21300526: PC Computer - BonziBUDDY - Bonzi_263
+    21300528: PC Computer - BonziBUDDY - Bonzi_264
+    21300530: PC Computer - BonziBUDDY - Bonzi_265
+    21300532: PC Computer - BonziBUDDY - Bonzi_266
+    21300534: PC Computer - BonziBUDDY - Bonzi_267
+    21300536: PC Computer - BonziBUDDY - Bonzi_268
+    21300538: PC Computer - BonziBUDDY - Bonzi_269
+    21300540: PC Computer - BonziBUDDY - Bonzi_270
+    21300542: PC Computer - BonziBUDDY - Bonzi_271
+    21300544: PC Computer - BonziBUDDY - Bonzi_272
+    21300546: PC Computer - BonziBUDDY - Bonzi_273
+    21300548: PC Computer - BonziBUDDY - Bonzi_274
+    21300550: PC Computer - BonziBUDDY - Bonzi_275
+    21300552: PC Computer - BonziBUDDY - Bonzi_276
+    21300554: PC Computer - BonziBUDDY - Bonzi_277
+    21300556: PC Computer - BonziBUDDY - Bonzi_278
+    21300558: PC Computer - BonziBUDDY - Bonzi_279
+    21300560: PC Computer - BonziBUDDY - Bonzi_280
+    21300562: PC Computer - BonziBUDDY - Bonzi_281
+    21300564: PC Computer - BonziBUDDY - Bonzi_282
+    21300566: PC Computer - BonziBUDDY - Bonzi_283
+    21300568: PC Computer - BonziBUDDY - Bonzi_284
+    21300570: PC Computer - BonziBUDDY - Bonzi_285
+    21300572: PC Computer - BonziBUDDY - Bonzi_286
+    21300574: PC Computer - BonziBUDDY - Bonzi_287
+    21300576: PC Computer - BonziBUDDY - Bonzi_288
+    21300578: PC Computer - BonziBUDDY - Bonzi_289
+    21300580: PC Computer - BonziBUDDY - Bonzi_290
+    21300582: PC Computer - BonziBUDDY - Bonzi_291
+    21300584: PC Computer - BonziBUDDY - Bonzi_292
+    21300586: PC Computer - BonziBUDDY - Bonzi_293
+    21300588: PC Computer - BonziBUDDY - Bonzi_294
+    21300590: PC Computer - BonziBUDDY - Bonzi_295
+    21300592: PC Computer - BonziBUDDY - Bonzi_296
+    21300594: PC Computer - BonziBUDDY - Bonzi_297
+    21300596: PC Computer - BonziBUDDY - Bonzi_298
+    21300598: PC Computer - BonziBUDDY - Bonzi_299
+    21300600: PC Computer - BonziBUDDY - Bonzi_300
+    21300602: PC Computer - BonziBUDDY - Bonzi_301
+    21300604: PC Computer - BonziBUDDY - Bonzi_302
+    21300606: PC Computer - BonziBUDDY - Bonzi_303
+    21300608: PC Computer - BonziBUDDY - Bonzi_304
+    21300610: PC Computer - BonziBUDDY - Bonzi_305
+    21300612: PC Computer - BonziBUDDY - Bonzi_306
+    21300614: PC Computer - BonziBUDDY - Bonzi_307
+    21300616: PC Computer - BonziBUDDY - Bonzi_308
+    21300618: PC Computer - BonziBUDDY - Bonzi_309
+    21300620: PC Computer - BonziBUDDY - Bonzi_310
+    21300622: PC Computer - BonziBUDDY - Bonzi_311
+    21300624: PC Computer - BonziBUDDY - Bonzi_312
+    21300626: PC Computer - BonziBUDDY - Bonzi_313
+    21300628: PC Computer - BonziBUDDY - Bonzi_314
+    21300630: PC Computer - BonziBUDDY - Bonzi_315
+    21300632: PC Computer - BonziBUDDY - Bonzi_316
+    21300634: PC Computer - BonziBUDDY - Bonzi_317
+    21300636: PC Computer - BonziBUDDY - Bonzi_318
+    21300638: PC Computer - BonziBUDDY - Bonzi_319
+    21300640: PC Computer - BonziBUDDY - Bonzi_320
+    21300642: PC Computer - BonziBUDDY - Bonzi_321
+    21300644: PC Computer - BonziBUDDY - Bonzi_322
+    21300646: PC Computer - BonziBUDDY - Bonzi_323
+    21300648: PC Computer - BonziBUDDY - Bonzi_324
+    21300650: PC Computer - BonziBUDDY - Bonzi_325
+    21300652: PC Computer - BonziBUDDY - Bonzi_326
+    21300654: PC Computer - BonziBUDDY - Bonzi_327
+    21300656: PC Computer - BonziBUDDY - Bonzi_328
+    21300658: PC Computer - BonziBUDDY - Bonzi_329
+    21300660: PC Computer - BonziBUDDY - Bonzi_330
+    21300662: PC Computer - BonziBUDDY - Bonzi_331
+    21300664: PC Computer - BonziBUDDY - Bonzi_332
+    21300666: PC Computer - BonziBUDDY - Bonzi_333
+    21300668: PC Computer - BonziBUDDY - Bonzi_334
+    21300670: PC Computer - BonziBUDDY - Bonzi_335
+    21300672: PC Computer - BonziBUDDY - Bonzi_336
+    21300674: PC Computer - BonziBUDDY - Bonzi_337
+    21300676: PC Computer - BonziBUDDY - Bonzi_338
+    21300678: PC Computer - BonziBUDDY - Bonzi_339
+    21300680: PC Computer - BonziBUDDY - Bonzi_340
+    21300682: PC Computer - BonziBUDDY - Bonzi_341
+    21300684: PC Computer - BonziBUDDY - Bonzi_342
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_13
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_24
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_27
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_30
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_31
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3040
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_43
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_45
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_46
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_47
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2880
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_53
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_54
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_55
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_59
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_60
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_61
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_63
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_64
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_65
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_66
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2720
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_72
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_73
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_74
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_75
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_76
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_77
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_78
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_79
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_80
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_81
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_82
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_83
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_89
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_90
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_91
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_95
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_96
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_97
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_98
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_99
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_100
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_104
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_105
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_106
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_108
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_109
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_110
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_111
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_112
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_113
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_114
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_115
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_116
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_117
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2240
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_119
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_122
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_123
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_124
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_125
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_126
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_127
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_128
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_129
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_130
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_131
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_132
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_133
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_134
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2080
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_138
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_139
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_140
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_141
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_142
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_143
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_144
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_145
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_146
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_147
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_148
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_149
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_150
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_151
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1920
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_155
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_156
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_157
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_158
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_159
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_160
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_161
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_162
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_163
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_164
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_165
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_166
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_167
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_168
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1760
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_171
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_172
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_173
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_174
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_176
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_177
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_178
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_179
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_180
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_181
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_182
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_183
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_184
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_185
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1600
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_187
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_188
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_189
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_190
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_191
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_192
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_193
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_194
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_195
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_196
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_197
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_198
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_199
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_200
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_201
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_202
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_204
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_206
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_207
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_208
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_209
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_210
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_211
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_212
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_213
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_214
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_215
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_216
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_217
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_218
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_219
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1280
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_221
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_222
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_223
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_224
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_225
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_226
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_227
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_228
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_229
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_230
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_231
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_232
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_233
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_234
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_235
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_236
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1120
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_238
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_239
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_240
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_241
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_242
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_243
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_244
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_245
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_246
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_247
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_248
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_249
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_250
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_251
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_252
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_253
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 960
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_254
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_255
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_256
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_257
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_258
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_259
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_260
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_261
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_262
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_263
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_264
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_265
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_266
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_267
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_268
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_269
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_270
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_272
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_273
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_274
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_275
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_276
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_277
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_278
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_279
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_280
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_281
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_282
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_283
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_284
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_285
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_286
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_287
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 640
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_289
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_290
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_291
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_292
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_293
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_294
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_295
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_296
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_297
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_298
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_299
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_300
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_301
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_302
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_303
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_304
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 480
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_305
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_306
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_307
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_308
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_309
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_310
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_311
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_312
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_313
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_314
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_315
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_316
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_317
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_318
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_319
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_320
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_321
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 320
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_323
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_324
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_325
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_326
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_327
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_328
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_329
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_330
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_331
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_332
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_333
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_334
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_335
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_336
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_337
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_338
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 160
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_339
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_340
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_341
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - BonziBUDDY - Bonzi_342
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
